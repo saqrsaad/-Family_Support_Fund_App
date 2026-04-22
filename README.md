@@ -284,18 +284,19 @@ flutter_localizations Localization delegates
 📸 Screenshots
 
 <p align="center">
-  <img src="scteenshots/1.png " width="200"/>
-    <img src="scteenshots/2.png " width="200"/>
-  <img src="scteenshots/3.png " width="200"/>
-    <img src="scteenshots/4.png " width="200"/>
-  <img src="scteenshots/5.png " width="200"/>
-  <img src="scteenshots/6.png " width="200"/>
-  <img src="scteenshots/7.png " width="200"/>
-  <img src="scteenshots/8.png " width="200"/>
-  <img src="scteenshots/10.png " width="200"/>
-    <img src="scteenshots/11.png " width="200"/>
-  <img src="scteenshots/12.png " width="200"/>
+  <img src="scteenshots/1.png" width="200"/>
+    <img src="scteenshots/2.png" width="200"/>
+  <img src="scteenshots/3.png" width="200"/>
+    <img src="scteenshots/4.png" width="200"/>
+  <img src="scteenshots/5.png" width="200"/>
+  <img src="scteenshots/6.png" width="200"/>
+  <img src="scteenshots/7.png" width="200"/>
+  <img src="scteenshots/8.png" width="200"/>
+  <img src="scteenshots/10.png" width="200"/>
+    <img src="scteenshots/11.png" width="200"/>
+  <img src="scteenshots/12.png" width="200"/>
   </p>
+
 ---
 
 🧪 Testing
