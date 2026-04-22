@@ -1,0 +1,21 @@
+{
+  "@@locale": "ar",
+  "appName": "صندوق دعم الأسرة",
+  "welcome": "مرحباً",
+  "login": "تسجيل الدخول",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "signInWithGoogle": "تسجيل الدخول عبر Google",
+  "joinFund": "انضم إلى الصندوق",
+  "requestSupport": "طلب دعم مالي",
+  "tracking": "المتابعة",
+  "settings": "الإعدادات",
+  "submit": "تقديم",
+  "cancel": "إلغاء",
+  "ok": "موافق",
+  "error": "خطأ",
+  "success": "تم بنجاح",
+  "loading": "جاري التحميل...",
+  "underReview": "قيد المراجعة",
+  "requestNumber": "رقم الطلب"
+}

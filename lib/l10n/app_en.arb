@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "appName": "Family Support Fund",
+  "welcome": "Welcome",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "signInWithGoogle": "Sign in with Google",
+  "joinFund": "Join the Fund",
+  "requestSupport": "Request Support",
+  "tracking": "Tracking",
+  "settings": "Settings",
+  "submit": "Submit",
+  "cancel": "Cancel",
+  "ok": "OK",
+  "error": "Error",
+  "success": "Success",
+  "loading": "Loading...",
+  "underReview": "Under Review",
+  "requestNumber": "Request Number"
+}
