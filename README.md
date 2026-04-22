@@ -92,11 +92,7 @@ family_support_fund/
 ├── README.md
 └── .gitignore
 ```
-Author
- Saqr Saad
- GitHub:
- https://github.com/saqrsaad
- 
+
 ---
 
 # Family Support Fund App
@@ -118,7 +114,7 @@ Author
 
 ---
 
-## 📱 Features
+ 📱 Features
 
 - **User Authentication**
   - Sign in with email and password.
@@ -150,7 +146,7 @@ Author
   - View the status of your join request (Under Review / Approved / Rejected).
   - List all previous financial support requests.
 
-- **Settings & Customization**
+  **Settings & Customization**
   - Toggle between Light, Dark, and System themes.
   - Switch between Arabic and English languages.
   - Enable/disable push notifications.
@@ -333,8 +329,14 @@ This project is licensed under the MIT License. See the LICENSE file for details
 📬 Contact
 
 For any inquiries or support, please open an issue on GitHub.
+Author
+ Saqr Saad
+ GitHub:
+ https://github.com/saqrsaad
+ 
 
 ---
+
 
 <p align="center">Built with ❤️ for family solidarity</p>
 
